@@ -8,7 +8,7 @@ Names below are ordered by first contribution.
 Author
 ------
 
-= Eduardo Abeliuk <eabeliuk@gmail.com>
+- Eduardo Abeliuk <eabeliuk@gmail.com>
 - Samy Pessé <samypesse@gmail.com>
 - Aaron O'Mullan <aaron.omullan@gmail.com>
 
